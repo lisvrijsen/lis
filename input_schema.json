@@ -1,0 +1,13 @@
+{
+    "title": "Scrape data from a web page",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+        "success": {
+            "title": "success",
+            "type": "boolean",
+            "description": "was previous actor successful",
+            "editor": "checkbox"
+        }
+    }
+}
