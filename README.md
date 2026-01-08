@@ -1,3 +1,3 @@
 # testing image
 
-![magpie](./ekster.jpg)
+![magpie](./ekster2.png)
