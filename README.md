@@ -1,3 +1,3 @@
 # testing image
 
-![bird](./ekster2.png)
+![bird ekster](./ekster2.png)
